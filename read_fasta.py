@@ -1,3 +1,5 @@
+#reads a fasta file and print out only sueqences
+
 import sys
 
 def read_fasta(filename):
