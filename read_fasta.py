@@ -1,3 +1,4 @@
+add some modifications
 #reads a fasta file and print out only sueqences
 
 import sys
