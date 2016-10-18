@@ -14,3 +14,5 @@ def read_fasta(filename):
     return sequence
 
 print read_fasta(sys.argv[1])
+
+#end of the analysis
